@@ -1,0 +1,75 @@
+{
+  "path": "build/assets/elementos.png",
+
+  "blocks": {
+    "Utils": {
+      "Borrador": {
+        "minX": 164.0,
+        "minY": 177.0,
+        "width": 8.0,
+        "height": 8.0
+      },
+      "Puntero": {
+        "minX": 175.0,
+        "minY": 176.0,
+        "width": 8.0,
+        "height": 8.0
+      }
+    },
+    "Terrenos": {
+      "TierraPequenya": {
+        "minX": 256.0,
+        "minY": 80.0,
+        "width": 16.0,
+        "height": 16.0
+      },
+      "TierraGrande": {
+        "minX": 208.0,
+        "minY": 48.0,
+        "width": 48.0,
+        "height": 16.0
+      },
+      "CuadradoHieloPequeny": {
+        "minX": 16.0,
+        "minY": 96.0,
+        "width": 8.0,
+        "height": 8.0
+      },
+      "CuadradoHielo": {
+        "minX": 0.0,
+        "minY": 96.0,
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    "Enemigos": {
+      "Pulpo": {
+        "minX": 96.0,
+        "minY": 4.0,
+        "width": 15.0,
+        "height": 12.0
+      },
+      "Calabaza": {
+        "minX": 144.0,
+        "minY": 0.0,
+        "width": 16.0,
+        "height": 16.0
+      }
+    },
+    "Suelos": {
+      "SueloVerde": {
+        "minX": 32.0,
+        "minY": 96.0,
+        "width": 16.0,
+        "height": 16.0
+      },
+      "SueloRojo": {
+        "minX": 0.0,
+        "minY": 112.0,
+        "width": 16.0,
+        "height": 16.0
+      }
+    }
+  }
+}
+
