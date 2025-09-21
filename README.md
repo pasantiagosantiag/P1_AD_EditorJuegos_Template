@@ -11,6 +11,9 @@ Se está desarrollando un editor visual y nos han encargado desarrollar la parte
 el editor, en formato binario, XML y JSON, además de poder generar un HTML con una representación de los niveles.
 
 
+
+![Ejemplo del proyecto](imagen.png)
+
 ### Resultados de aprendizaje y criterios de evaluación.
 
 RA1. Desarrolla aplicaciones que gestionan información almacenada en ficheros
