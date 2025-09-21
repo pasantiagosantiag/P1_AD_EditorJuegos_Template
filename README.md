@@ -12,7 +12,7 @@ el editor, en formato binario, XML y JSON, además de poder generar un HTML con 
 
 
 
-![Ejemplo del proyecto](imagen.png)
+![Ejemplo del proyecto](img.png)
 
 ### Resultados de aprendizaje y criterios de evaluación.
 
